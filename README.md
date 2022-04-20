@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=larissafaustino&show_icons=true&theme=radical&locale=en" alt="larissafaustino" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larissafaustino&show_icons=true&locale=en&layout=compact&theme=radical" alt="larissafaustino" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larissafaustino&show_icons=true&locale=en&theme=radical" alt="larissafaustino" /></p>
 
 <br>
 <br>
