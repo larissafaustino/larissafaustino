@@ -21,6 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larissafaustino&show_icons=true&locale=en&theme=radical" alt="larissafaustino" /></p>
 
 <br>
-<br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/larissafaustino"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="larissafaustino" /></a></p><br><br>
