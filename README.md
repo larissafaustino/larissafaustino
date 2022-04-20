@@ -163,6 +163,8 @@ I’m currently studying **Computer Science** - 👯 I’m looking to collaborat
   </a>
 </p>
 
+<br></br>
+
 <p>
   <img
     align="left"
