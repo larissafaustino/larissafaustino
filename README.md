@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently studying **Computer Science**
 
-- 👯 I’m looking to collaborate on **open source projects**
-
 - 😄 Pronouns: She/Her
 
 
